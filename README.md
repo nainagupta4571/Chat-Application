@@ -2,7 +2,7 @@
 
 **Talk-A-Tive** is a modern full-stack chat application enabling seamless **real-time messaging**, **group chats**, and **user authentication**. Built with performance and user experience in mind, it leverages **Socket.io** for live communication and stores user data securely with encryption in **MongoDB**.
 
-🚀 **Live Demo**: [Try](https://talk-to-me-7ag0.onrender.com/)
+🚀 **Live Demo**: [Click Here to try Once](https://talk-to-me-7ag0.onrender.com/)
 
 ## 🛠️ Tech Stack
 
